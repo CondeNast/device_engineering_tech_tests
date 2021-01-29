@@ -2,7 +2,7 @@
 
 This is a coding exercise to help us assess candidates looking to join one of our mobile (iOS or Android) teams at Condé Nast. 
 
-The task is intended to be completed at home. We appreciate the time you spend on it and we will go through your submitted work together when you're invited for the technical interview. We ask that you don't spend more than 8 hours on the task as we know creating a polished app takes time. If there are things you would have added given more time, we ask you to tell us about them at the interview.
+The task is intended to be completed at home. We appreciate the time you spend on it and we will go through your submitted work together when you're invited for the technical interview.
 
 # Interview Resources
 
