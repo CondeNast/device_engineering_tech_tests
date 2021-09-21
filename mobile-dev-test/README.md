@@ -32,6 +32,7 @@ Although UI and UX are important, the goal of this demo is to show your thought 
 
 These points serve as a guide on what we look for in a code submission. Not all points have to be met:
  - Android Project needs to be done using Kotlin Programming Language only
+ - iOS Project needs to be done using Swift Programming Language only
  - The solution fulfils the brief
  - There is a README that instructs how to run the app
  - There is some attempt at creating documentation
